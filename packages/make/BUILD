@@ -1,5 +1,5 @@
 host_package(
-    name='make',
+    name='gmake',
     version='4.1',
     homepage='https://www.gnu.org/software/make/',
     maintainer='info@nuxi.nl',
